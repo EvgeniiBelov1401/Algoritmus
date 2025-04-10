@@ -35,8 +35,6 @@
                 {
                     Console.WriteLine("\nНет результата...");
                 }
-
-
                 Console.ReadLine();
                 Console.Clear();
             }
