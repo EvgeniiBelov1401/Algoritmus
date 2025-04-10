@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-ver2.0", "TwoSum-ver2.0\TwoSum-ver2.0.csproj", "{98073BCB-3EDE-4205-A671-E4B82CE40ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-ver1.0", "TwoSum-ver1.0\TwoSum-ver1.0.csproj", "{4002479D-E869-40CD-B9A1-A718146B5EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98073BCB-3EDE-4205-A671-E4B82CE40ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98073BCB-3EDE-4205-A671-E4B82CE40ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98073BCB-3EDE-4205-A671-E4B82CE40ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98073BCB-3EDE-4205-A671-E4B82CE40ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3227B61F-CB27-4EF0-8D19-550F29EFCD5B}
+	EndGlobalSection
+EndGlobal
