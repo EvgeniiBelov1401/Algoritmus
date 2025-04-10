@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-ver2.0", "TwoSum-ver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-ver1.0", "TwoSum-ver1.0\TwoSum-ver1.0.csproj", "{4002479D-E869-40CD-B9A1-A718146B5EE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-ver3.0", "TwoSum-ver3.0\TwoSum-ver3.0.csproj", "{F24F8370-2BCF-4EBD-8BCB-C6D8D084AB70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4002479D-E869-40CD-B9A1-A718146B5EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24F8370-2BCF-4EBD-8BCB-C6D8D084AB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F8370-2BCF-4EBD-8BCB-C6D8D084AB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F8370-2BCF-4EBD-8BCB-C6D8D084AB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F8370-2BCF-4EBD-8BCB-C6D8D084AB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
