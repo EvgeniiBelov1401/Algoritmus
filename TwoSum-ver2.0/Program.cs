@@ -43,11 +43,9 @@
         {
             for (int i = 0; i < nums.Length; i++)
             {
-                var proxy = target - nums[i];
-                int i2 = Array.IndexOf(nums, proxy);
-                if (i2 != -1)
+                if (Array.IndexOf(nums, target - nums[i]) != -1)
                 {
-                    return new int[] { i, i2 };
+                    return new int[] { i, Array.IndexOf(nums, target - nums[i]) };
                 }
             }
             return new int[0];
