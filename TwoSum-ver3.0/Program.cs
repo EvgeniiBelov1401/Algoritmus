@@ -42,7 +42,8 @@
         static int[] TwoSum(int[] nums, int target)
         {
             var dict = new Dictionary<int, int>();
-            for (int i = 0; i < nums.Length; i++)
+            var numsLength = nums.Length;
+            for (int i = 0; i < numsLength; i++)
             {
                 var proxy = target - nums[i];
                 if (dict.TryGetValue(proxy, out int proxyIndex))
